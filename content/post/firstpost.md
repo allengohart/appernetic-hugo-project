@@ -8,4 +8,6 @@ title = "Blog Kedua Menggunakan Hugo"
 
 Menggunakan hugo di appernetic ini sama aja dengan ngeblog dengan aplikasi blog seperti wordpress.com dan blogger.com, bedanya hosting menggunakan github dan custom domain dan bantuan cloudflare buat SSLnya. Soalnya github ga mendukung SSL untuk custom domain.
 
-Walaupun kedepannya tetap menggunak
+Kedepannya saya tetap menggunakan hexo untuk blog-blog lainnya, karena masih banyak platfrom yang belum saya coba seperti heroku, bitbucket, dll. 
+
+Untuk hugo sendiri saya pending dul
