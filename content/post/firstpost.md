@@ -1,7 +1,8 @@
 +++
-date = "2017-08-14T16:16:58Z"
-draft = true
+date = "2017-08-14T16:32:09Z"
+draft = false
 title = "firstpost"
 
 +++
-Tulisan pertama menggunakan go hugo
+
+Tulisan pertama menggunakan go hugo
