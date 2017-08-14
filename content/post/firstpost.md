@@ -13,3 +13,5 @@ Kedepannya saya tetap menggunakan hexo untuk blog-blog lainnya, karena masih ban
 Untuk hugo sendiri saya pending dulu, karena lagi belajar bahasa pengantarnya yaitu Go Lang. Di Laptop saya sendiri file installer hugo terakhir tahun 2016, udah setahun ga update.
 
 Oh iya, saya kepincut dengan hugo sebenarnya bukan gara-gara Appernetic ini saja, tapi juga ngeliat roadmad dari Hugo yang aktif dan banyak pengembangan, dibandingkan dengan Hexo yang pengembangannya udah hampir setahun yang lalu.
+
+Btw sekian dulu posting pertama ini, btw apperne
