@@ -93,3 +93,6 @@ disqusShortname = "shvrga"
   weight = 3
   identifier = "about"
   url = "/about/"
+  
+related_content_limit = 5
+toc = true
