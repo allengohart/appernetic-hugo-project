@@ -10,4 +10,4 @@ Menggunakan hugo di appernetic ini sama aja dengan ngeblog dengan aplikasi blog 
 
 Kedepannya saya tetap menggunakan hexo untuk blog-blog lainnya, karena masih banyak platfrom yang belum saya coba seperti heroku, bitbucket, dll. 
 
-Untuk hugo sendiri saya pending dul
+Untuk hugo sendiri saya pending dulu, karena lagi belajar bahasa pengantarnya yaitu Go Lang. Di Laptop saya sendiri file installer hugo
