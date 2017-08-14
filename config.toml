@@ -77,3 +77,19 @@ disqusShortname = "shvrga"
     plainIdAnchors = true
     extensions = []
     extensionmask = []
+
+[[menu.main]]
+  name = "Home"
+  weight = 1
+  identifier = "home"
+  url = "/"
+[[menu.main]]
+  name = "Posts"
+  weight = 2
+  identifier = "post"
+  url = "/post/"
+[[menu.main]]
+  name = "About"
+  weight = 3
+  identifier = "about"
+  url = "/about/"
