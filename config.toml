@@ -2,10 +2,10 @@
 baseurl = "http://www.example.com"
 
 # Site title
-title = "sitename"
+title = "Shvr dot Ga"
 
 # Copyright
-copyright = "(c) 2015 yourname."
+copyright = "(c) 2017 Shvr World!"
 
 # Language
 languageCode = "en-EN"
@@ -21,11 +21,11 @@ metaDataFormat = "toml"
 # theme = "hugo-bootstrap"
 
 # Pagination
-paginate = 10
+paginate = 5
 paginatePath = "page"
 
 # Enable Disqus integration
-disqusShortname = "your_disqus_shortname"
+disqusShortname = "shvrga"
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
@@ -36,8 +36,8 @@ disqusShortname = "your_disqus_shortname"
     topic = "topics"
 
 [author]
-    name = "yourname"
-    email = "yourname@example.com"
+    name = "Shvrga"
+    email = "kontak@shvr.ga"
 
 #
 # All parameters below here are optional and can be mixed and matched.
