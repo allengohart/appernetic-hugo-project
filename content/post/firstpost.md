@@ -4,4 +4,4 @@ draft = true
 title = "firstpost"
 
 +++
-
+Tulisan pertama menggunakan go hugo
