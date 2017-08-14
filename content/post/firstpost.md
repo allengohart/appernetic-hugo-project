@@ -14,4 +14,4 @@ Untuk hugo sendiri saya pending dulu, karena lagi belajar bahasa pengantarnya ya
 
 Oh iya, saya kepincut dengan hugo sebenarnya bukan gara-gara Appernetic ini saja, tapi juga ngeliat roadmad dari Hugo yang aktif dan banyak pengembangan, dibandingkan dengan Hexo yang pengembangannya udah hampir setahun yang lalu.
 
-Btw sekian dulu posting pertama ini, btw apperne
+Btw sekian dulu posting pertama ini, btw appernetic versi gratis cuma bisa publish 7 kali dalam seminggu. Menurut saya ini sudah cukup karena sangat jarang saya publish lebih dari 4 artikel perbulan di tiap blog.
